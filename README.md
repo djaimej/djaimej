@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Diego
 
-Ingeniero en sistemas, desarrollador web y móvil<br/>
+### Ingeniero en sistemas<br/>
 
 ## Stack de tecnologias 👩‍💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E)
