@@ -1,6 +1,6 @@
 # Diego Jaime J - Ing. en Sistemas Computacionales
 
-## Stack de tecnologias 👩‍💻
+## Tecnologías
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178c6)
 ![PHP](https://img.shields.io/badge/php-4f5b93.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white)
@@ -30,15 +30,15 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## GitHub Stats 🌱
+## GitHub Stats
 ​
 ![djaimej's Stats](https://github-readme-stats.vercel.app/api?username=djaimej&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<br/><br/>
+<br/>
 
 ![djaimej's Streak](https://github-readme-streak-stats.herokuapp.com/?user=djaimej&theme=vue-dark&hide_border=true)
 
-<br/><br/>
+<br/>
 
 ![djaimej's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djaimej&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
