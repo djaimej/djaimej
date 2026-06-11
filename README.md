@@ -34,11 +34,9 @@
 ​
 ![djaimej's Stats](https://github-readme-stats.vercel.app/api?username=djaimej&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<br/>
 
 ![djaimej's Streak](https://github-readme-streak-stats.herokuapp.com/?user=djaimej&theme=vue-dark&hide_border=true)
 
-<br/>
 
 ![djaimej's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djaimej&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
