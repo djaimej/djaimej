@@ -30,9 +30,15 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## GitHub Stats 🌱​
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=djaimej&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=djaimej&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=djaimej&theme=transparent&hide_border=false)<br/>
+## GitHub Stats 🌱
+​
+![djaimej's Stats](https://github-readme-stats.vercel.app/api?username=djaimej&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<br/><br/>
+
+![djaimej's Streak](https://github-readme-streak-stats.herokuapp.com/?user=djaimej&theme=vue-dark&hide_border=true)
+
+<br/><br/>
+
+![djaimej's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djaimej&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
