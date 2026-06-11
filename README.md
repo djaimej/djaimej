@@ -13,6 +13,8 @@
 ![Angular](https://img.shields.io/badge/angular-red.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-176bff.svg?style=for-the-badge&amp;logo=Ionic&amp;logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+
 
 ![NodeJS](https://img.shields.io/badge/node.js-417e38.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-ea2845.svg?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white)
