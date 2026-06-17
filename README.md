@@ -32,11 +32,10 @@
 
 ## GitHub Stats
 ​
-![djaimej's Stats](https://github-readme-stats.vercel.app/api?username=djaimej&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![djaimej's Stats](https://github-readme-stats.vercel.app/api?username=djaimej&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
-![djaimej's Streak](https://github-readme-streak-stats.herokuapp.com/?user=djaimej&theme=vue-dark&hide_border=true)
+![djaimej's Streak](https://github-readme-streak-stats.herokuapp.com/?user=djaimej&theme=dark&hide_border=true)
 
 
-![djaimej's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djaimej&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+![djaimej's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djaimej&theme=dark&show_icons=true&hide_border=true&layout=compact)
